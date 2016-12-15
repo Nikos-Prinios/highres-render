@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Highres-texture-for-render",
+    "name": "Highres-render",
     "author": "Nikos Priniotakis",
     "version": (1, 0),
     "blender": (2, 78, 0),
